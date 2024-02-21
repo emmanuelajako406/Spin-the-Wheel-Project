@@ -12,7 +12,7 @@ To start the development server, run the following command:
 npm run dev
 
 The Spin the Wheel site allows users to spin a wheel and win prizes. 
-The Wheel stops on position 2 which is the Yellow Monster Picture.
+The Wheel stops at position 2 which is the Yellow Monster Picture.
 The Showroom animation showcases casino-style signage.
 
 Technologies Used
