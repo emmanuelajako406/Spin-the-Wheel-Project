@@ -1,7 +1,7 @@
 git clone https://github.com/emmanuelajako406/Spin-the-Wheel-Project.git
 
 Navigate to the project directory:
-cd spin-the-wheel-site
+cd "spin-the-wheel-site-project"
 
 Install dependencies using npm:
 npm install
